@@ -1,0 +1,5 @@
+dependencies {
+    compile project(":service-api")
+    compile project(":project-dao")
+    compile('org.springframework.cloud:spring-cloud-starter-netflix-eureka-server')
+}

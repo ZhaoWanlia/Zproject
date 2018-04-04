@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-starter-stream-kafka:2.0.0.RC2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-stream-kafka/2.0.0.RC2/764e10cf61b6d515eb5be66fe576ad0d6232f4ab/spring-cloud-starter-stream-kafka-2.0.0.RC2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-stream-kafka/2.0.0.RC2/132e770a2a9b2c2102f5e154429c315ad1609080/spring-cloud-starter-stream-kafka-2.0.0.RC2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

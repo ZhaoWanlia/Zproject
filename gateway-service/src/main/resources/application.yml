@@ -1,0 +1,26 @@
+spring:
+  application:
+    name: gateway-service
+server:
+  port: 8008
+eureka:
+  client:
+    service-url:
+     defaultZone: http://localhost:8080/eureka
+zuul:
+  routes:
+    orders:
+      path: /order/**
+#      url: http://www.baidu.com
+      serviceId: ORDER-SERVICE
+    member:
+      path: /member/**
+      serviceId: MEMBER-SERVICE
+management:
+  endpoint:
+    health:
+      show-details: always
+  endpoints:
+    jmx:
+      exposure:
+        include: '*'

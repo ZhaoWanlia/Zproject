@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-client.iml" filepath="$PROJECT_DIR$/.idea/modules/config-client.iml" group="config-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-client/config-client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/config-client/config-client_main.iml" group="config-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-client/config-client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/config-client/config-client_test.iml" group="config-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-server.iml" filepath="$PROJECT_DIR$/.idea/modules/config-server.iml" group="config-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-server/config-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/config-server/config-server_main.iml" group="config-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-server/config-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/config-server/config-server_test.iml" group="config-server" />
+      <module fileurl="file://$PROJECT_DIR$/front-website/front-website.iml" filepath="$PROJECT_DIR$/front-website/front-website.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gateway-service.iml" filepath="$PROJECT_DIR$/.idea/modules/gateway-service.iml" group="gateway-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gateway-service/gateway-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gateway-service/gateway-service_main.iml" group="gateway-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gateway-service/gateway-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gateway-service/gateway-service_test.iml" group="gateway-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/member-service.iml" filepath="$PROJECT_DIR$/.idea/modules/member-service.iml" group="member-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/member-service/member-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/member-service/member-service_main.iml" group="member-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/member-service/member-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/member-service/member-service_test.iml" group="member-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/menbiea/menbiea.iml" filepath="$PROJECT_DIR$/.idea/modules/menbiea/menbiea.iml" group="menbiea" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/menbiea/menbiea_main.iml" filepath="$PROJECT_DIR$/.idea/modules/menbiea/menbiea_main.iml" group="menbiea" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/menbiea/menbiea_test.iml" filepath="$PROJECT_DIR$/.idea/modules/menbiea/menbiea_test.iml" group="menbiea" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order-client.iml" filepath="$PROJECT_DIR$/.idea/modules/order-client.iml" group="order-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order-client/order-client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/order-client/order-client_main.iml" group="order-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order-client/order-client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/order-client/order-client_test.iml" group="order-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order-service.iml" filepath="$PROJECT_DIR$/.idea/modules/order-service.iml" group="order-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order-service/order-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/order-service/order-service_main.iml" group="order-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order-service/order-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/order-service/order-service_test.iml" group="order-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/project-dao.iml" filepath="$PROJECT_DIR$/.idea/modules/project-dao.iml" group="project-dao" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/project-dao/project-dao_main.iml" filepath="$PROJECT_DIR$/.idea/modules/project-dao/project-dao_main.iml" group="project-dao" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/project-dao/project-dao_test.iml" filepath="$PROJECT_DIR$/.idea/modules/project-dao/project-dao_test.iml" group="project-dao" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/register-center/register-center.iml" filepath="$PROJECT_DIR$/.idea/modules/register-center/register-center.iml" group="register-center" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/register-center/register-center_main.iml" filepath="$PROJECT_DIR$/.idea/modules/register-center/register-center_main.iml" group="register-center" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/register-center/register-center_test.iml" filepath="$PROJECT_DIR$/.idea/modules/register-center/register-center_test.iml" group="register-center" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-api.iml" filepath="$PROJECT_DIR$/.idea/modules/service-api.iml" group="service-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-api/service-api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/service-api/service-api_main.iml" group="service-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-api/service-api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/service-api/service-api_test.iml" group="service-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop-server.iml" filepath="$PROJECT_DIR$/.idea/modules/shop-server.iml" group="shop-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop-server/shop-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/shop-server/shop-server_main.iml" group="shop-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop-server/shop-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/shop-server/shop-server_test.iml" group="shop-server" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud.iml" filepath="$PROJECT_DIR$/springcloud.iml" />
+    </modules>
+  </component>
+</project>

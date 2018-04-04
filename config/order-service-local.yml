@@ -1,0 +1,5 @@
+server:
+  port: 8100
+student:
+  name: student_local
+  age: 18

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="config-client_main" target="1.8" />
+      <module name="config-client_test" target="1.8" />
+      <module name="config-server_main" target="1.8" />
+      <module name="config-server_test" target="1.8" />
+      <module name="gateway-service_main" target="1.8" />
+      <module name="gateway-service_test" target="1.8" />
+      <module name="member-service_main" target="1.8" />
+      <module name="member-service_test" target="1.8" />
+      <module name="menbiea_main" target="1.8" />
+      <module name="menbiea_test" target="1.8" />
+      <module name="order-client_main" target="1.8" />
+      <module name="order-client_test" target="1.8" />
+      <module name="order-service_main" target="1.8" />
+      <module name="order-service_test" target="1.8" />
+      <module name="project-dao_main" target="1.8" />
+      <module name="project-dao_test" target="1.8" />
+      <module name="register-center_main" target="1.8" />
+      <module name="register-center_test" target="1.8" />
+      <module name="service-api_main" target="1.8" />
+      <module name="service-api_test" target="1.8" />
+      <module name="shop-server_main" target="1.8" />
+      <module name="shop-server_test" target="1.8" />
+      <module name="springcloud_main" target="1.8" />
+      <module name="springcloud_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

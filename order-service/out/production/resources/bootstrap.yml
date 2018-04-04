@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: order-service
+  cloud:
+    config:
+      lable: master
+      profile: ${spring.profiles.active}
+      discovery:
+        service-id: config-server
+        enable: true
+

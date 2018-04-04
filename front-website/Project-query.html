@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<center>
+    <h1>企业工单管理</h1>
+    选择项目：
+    <select id="proId">
+        <option value="1">系统开发部</option>
+        <option value="2">课件制作</option>
+        <option value="3">产品设计</option>
+    </select>
+    <button>确定</button>
+</center>
+
+<script src="js/jquery.min.js"></script>
+<script>
+    $(function () {
+        $("button").click(function () {7
+            var proId = $("#proId").val();
+            alert(proId);
+            $.post("http://localhost:8008/member/selectProject", {"id": proId}, function (rst) {
+                alert(rst);
+            },  "json")
+        })
+    })
+</script>
+</body>
+</html>

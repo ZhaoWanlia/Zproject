@@ -1,0 +1,36 @@
+spring:
+  application:
+    name: config-server
+  kafka:
+    bootstrap-servers: localhost:9092
+  cloud:
+    config:
+      server:
+        git:
+          search-paths: config
+server:
+  port: 8888
+endpoints:
+  refresh:
+    sensitive: false
+  bus:
+    sensitive: false
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: file:\\\D:\\GitMeven
+#          uri: file://${user.home}/IdeaProjects/springcloud
+          repos:
+            local:
+              pattern: '**/local'
+#              uri: file://${user.home}/IdeaProjects/springcloud
+              uri: file:\\\D:\\GitMeven
+              searchPaths: config
+#            dev:
+#              pettern: '**/dev'
+#              uri: git@gitlab.com:TIANC6/Test.git
+      enabled: true
+  profiles:
+    active: local
